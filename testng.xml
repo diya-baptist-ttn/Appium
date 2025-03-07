@@ -1,0 +1,9 @@
+<suite name="MyTestSuite">
+    <test name="AllTests">
+        <classes>
+            <class name="org.example.AddCartTest"/>
+            <class name="org.example.CheckoutTest"/>
+            <class name="org.example.LoginTest"/>
+        </classes>
+    </test>
+</suite>
